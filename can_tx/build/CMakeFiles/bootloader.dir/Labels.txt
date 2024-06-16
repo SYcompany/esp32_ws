@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/kwon/embedded_ws/esp32_ws/can/build/CMakeFiles/bootloader
+/home/kwon/embedded_ws/esp32_ws/can/build/CMakeFiles/bootloader.rule
+/home/kwon/embedded_ws/esp32_ws/can/build/CMakeFiles/bootloader-complete.rule
+/home/kwon/embedded_ws/esp32_ws/can/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/kwon/embedded_ws/esp32_ws/can/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/kwon/embedded_ws/esp32_ws/can/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/kwon/embedded_ws/esp32_ws/can/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/kwon/embedded_ws/esp32_ws/can/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/kwon/embedded_ws/esp32_ws/can/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/kwon/embedded_ws/esp32_ws/can/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

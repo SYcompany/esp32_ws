@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "main",
-    "project_version":    "aa784af",
+    "project_version":    "22c8a08-dirty",
     "project_path":       "/home/kwon/embedded_ws/esp32_ws/mcpwm",
     "idf_path":           "/home/kwon/esp_ws/esp-idf",
     "build_dir":          "/home/kwon/embedded_ws/esp32_ws/mcpwm/build",
