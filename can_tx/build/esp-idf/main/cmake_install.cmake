@@ -1,4 +1,4 @@
-# Install script for directory: /home/kwon/embedded_ws/esp32_ws/can/main
+# Install script for directory: /home/kwon/embedded_ws/esp32_ws/can_tx/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

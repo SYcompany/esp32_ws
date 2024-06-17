@@ -1,4 +1,4 @@
-/* * Data converted from /home/kwon/embedded_ws/esp32_ws/can/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/kwon/embedded_ws/esp32_ws/can_tx/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
