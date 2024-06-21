@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 9fff633d71a0b2c95b7b81e999db0b62a3d498d7 kwon <ksu619@naver.com> 1718297321 +0900	clone: from github.com:SYcompany/esp32_ws.git
+9fff633d71a0b2c95b7b81e999db0b62a3d498d7 aa784af7c7c563e22dac1c57b1dc2fc3b1c9534c kwon <ksu619@naver.com> 1718297381 +0900	commit: first commit
+aa784af7c7c563e22dac1c57b1dc2fc3b1c9534c 22c8a08fb66512db5cef3c01604aa2d4d514a87a kwon <ksu619@naver.com> 1718463423 +0900	commit: motor contmotor control
+22c8a08fb66512db5cef3c01604aa2d4d514a87a 5e59440e046dacff40c500ca16ad8f0eaa4626b3 kwon <ksu619@naver.com> 1718550317 +0900	commit: can_tx, gpio, mcpwm first init
+5e59440e046dacff40c500ca16ad8f0eaa4626b3 bf9cb4b3677ebf2c3e4002d37d68ca4dba4dbaa3 kwon <ksu619@naver.com> 1718645094 +0900	commit: cann_rx, n_rx, udp_client update
